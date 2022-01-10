@@ -1,6 +1,7 @@
+<!--
+
 ### Hi there 👋
 
-<!--
 **FishZe/FishZe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there 👋
+
+✨ I'm FishZe, a grade 12 student now, a coding lover, (retired) OIer.
+😄 Not good at, but know a little about c/c++, python, PHP, html/css/js.
+🤔 As GaoKao approaching, I had to spent more time in study, so ...  you may have difficulty connecting me.
+💬 I would like to communicate with dalaos if you are willing to.....
+## 📫 ![BOLG](https://www.fishze.com)  ![e - mail](mailto:3053473706@qq.com)
