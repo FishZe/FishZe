@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 
 🤔 As GaoKao approaching, I had to spent more time in study, so ...  you may have difficulty connecting me.
 
-💬 I would like to communicate with dalaos if you are willing to.....
+💬 I want to study more from Dalaos in github!
 
 ## 📫 [BOLG](https://www.fishze.com)  &  [e - mail](mailto:3053473706@qq.com)
