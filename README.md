@@ -29,3 +29,5 @@ Here are some ideas to get you started:
 ## 📫 [BOLG](https://www.fishze.com)  &  [e - mail](mailto:3053473706@qq.com)
 
 [![FishZe's GitHub stats](https://github-readme-stats.vercel.app/api?username=FishZe)](https://github.com/FishZe/FishZe)
+ 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=FishZe)
