@@ -16,15 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋
-
-✨ I'm FishZe, a grade 12 student now, a coding lover, (retired) OIer.
-
-😄 Not good at, but know a little about c/c++, python, PHP, html/css/js.
-
-🤔 As GaoKao approaching, I had to spent more time in study, so ...  you may have difficulty connecting me.
-
-💬 I want to study more from Dalaos in github!
 
 ## 📫 [BOLG](https://www.fishze.com)  &  [e - mail](mailto:3053473706@qq.com)
 
