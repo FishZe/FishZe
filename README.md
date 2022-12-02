@@ -1,24 +1,18 @@
-<!--
+## Hello, FishZe here! 😄
 
-### Hi there 👋
+<img style="width: 40%" align="right" src="https://github-readme-stats.vercel.app/api?username=FishZe&theme=dark&show_icons=true" />
 
-**FishZe/FishZe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Yu FengZe, an OIer, a student at NJUPT studying EE. But completely ignorant of EE.
 
-Here are some ideas to get you started:
+Although I used to be an OIer, I'm a rookie at algorithms and can barely develop
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [My blog  (ShangHai Tencent Cloud)](https://blog.fishze.com).
+- [My Luogu Account](https://www.luogu.com.cn/user/242606).
+- [My AtCoder Account](https://atcoder.jp/users/PinkRabbit).
 
+<img style="width: 40%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FishZe&layout=compact&theme=dark" />
 
-## 📫 [BOLG](https://www.fishze.com)  &  [e - mail](mailto:3053473706@qq.com)
+### Contact Me:
 
-[![FishZe's GitHub stats](https://github-readme-stats.vercel.app/api?username=FishZe)](https://github.com/FishZe/FishZe)
- 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FishZe)
+- Tencent QQ: 3053473706.
+- Comment to my blog.
