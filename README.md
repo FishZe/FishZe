@@ -14,4 +14,5 @@ Although I used to be an OIer, I'm a rookie at algorithms and can barely develop
 ### Contact Me:
 
 - Tencent QQ: [3053473706](http://wpa.qq.com/msgrd?v=3&uin=3053473706&site=qq&menu=yes).
+- Mail to me: [contact.github@fishze.top](mailto:contact.github@fishze.top)
 - Comment to my blog.
