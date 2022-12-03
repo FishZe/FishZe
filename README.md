@@ -13,5 +13,5 @@ Although I used to be an OIer, I'm a rookie at algorithms and can barely develop
 
 ### Contact Me:
 
-- Tencent QQ: 3053473706.
+- Tencent QQ: [3053473706](http://wpa.qq.com/msgrd?v=3&uin=3053473706&site=qq&menu=yes).
 - Comment to my blog.
