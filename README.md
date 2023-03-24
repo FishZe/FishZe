@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Golang / PHP / Python**
 
-- 📝 I regularly write articles on [blog.fishze.com](blog.fishze.com)
+- 📝 I regularly write articles on [blog.fishze.com](https://blog.fishze.com)
 
 - 📫 How to reach me **contact.github@fishze.top**
 
