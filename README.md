@@ -1,16 +1,16 @@
 
 <h1 align="center">Hi 👋, I'm FishZe</h1>
-<h3 align="center">An orginal OIer, a student at NJUPT studying EE.</h3>
+<h3 align="center">An orginal OIer, a Fresh university student studying EE.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fishze&label=Profile%20views&color=0e75b6&style=flat" alt="fishze" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fishze" alt="fishze" /></a> </p>
 
-- 🌱 I’m currently learning **Golang / PHP / Python**
+- 🌱 I’m currently learning **Golang / PHP / Python / Vue**
 
 - 📝 I regularly write articles on [blog.fishze.com](https://blog.fishze.com)
 
-- 📫 How to reach me **contact.github@fishze.top**
+- 📫 How to reach me **contact.github@fishze.top** 
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -18,4 +18,4 @@
 
 <p><img align="left" style="width: 40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FishZe&layout=compact&theme=dark" alt="fishze" /></p>
 
-<p>&nbsp;<img align="center"  src="https://github-readme-stats.vercel.app/api?username=FishZe&theme=dark&show_icons=true" alt="fishze" /></p>
+<p>&nbsp;<img align="center" style="width: 45%" src="https://github-readme-stats.vercel.app/api?username=FishZe&theme=dark&show_icons=true" alt="fishze" /></p>
