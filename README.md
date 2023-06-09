@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **Golang / PHP / Python / Vue**
 
-- 📝 I regularly write articles on [blog.fishze.com](https://blog.fishze.com)
-
 - 📫 How to reach me **contact.github@fishze.top** 
 
 
